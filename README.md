@@ -1,6 +1,6 @@
 # SQL, DBMS, and OOPs Handwritten Notes
 
-This GitHub repository contains a collection of handwritten notes on __important interview questions__ related to SQL, Database Management Systems (DBMS), and Object-Oriented Programming (OOPs) concepts. These notes are designed to help you prepare for interviews, exams, or simply to enhance your understanding of these fundamental topics in computer science.
+This repository contains a collection of handwritten notes on __important interview questions__ related to SQL, Database Management Systems (DBMS), and Object-Oriented Programming (OOPs) concepts. These notes are designed to help you prepare for interviews, exams, or simply to enhance your understanding of these fundamental topics in computer science.
 
 ## Table of Contents
 
