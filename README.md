@@ -31,8 +31,6 @@ This section of the repository covers SQL interview questions. SQL (Structured Q
 
 - Transactions and Locks
 
-- Performance Tuning
-
 ## DBMS Interview Questions
 
 The DBMS section focuses on Database Management Systems. A DBMS is the software that handles database creation, maintenance, and management. The notes in this section cover topics like:
