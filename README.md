@@ -4,19 +4,14 @@ This GitHub repository contains a collection of handwritten notes on important i
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- Introduction
 
-- [SQL Interview Questions](#sql-interview-questions)
+- SQL Interview Questions
 
-- [DBMS Interview Questions](#dbms-interview-questions)
+- DBMS Interview Questions
 
-- [OOPs Interview Questions](#oops-interview-questions)
+- OOPs Interview Questions
 
-- [How to Use This Repository](#how-to-use-this-repository)
-
-- [Contributing](#contributing)
-
-- [License](#license)
 
 ## Introduction
 
@@ -70,24 +65,3 @@ The OOPs (Object-Oriented Programming) section delves into core concepts of obje
 
 - Exception Handling
 
-## How to Use This Repository
-
-To make the best use of this repository, follow these steps:
-
-1\. Browse the sections relevant to your study or interview preparation.
-
-2\. Review the handwritten notes for the specific topics that interest you.
-
-3\. Use these notes as a reference while practicing interview questions.
-
-4\. Contribute to the repository by adding your own handwritten notes or improvements.
-
-## Contributing
-
-We welcome contributions from the community to make this repository even more comprehensive and valuable. If you have additional interview questions, improved answers, or handwritten notes on related topics, please consider contributing. Follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file to get started.
-
-## License
-
-This repository is licensed under the MIT License. You are free to use and distribute the content as long as you adhere to the terms and conditions outlined in the [LICENSE](LICENSE) file.
-
-Happy learning and good luck with your SQL, DBMS, and OOPs interview preparations!
