@@ -35,17 +35,15 @@ This section of the repository covers SQL interview questions. SQL (Structured Q
 
 The DBMS section focuses on Database Management Systems. A DBMS is the software that handles database creation, maintenance, and management. The notes in this section cover topics like:
 
-- Database Design and ER Diagrams
-
 - Database Architecture
 
 - Query Optimization
 
 - ACID Properties
 
-- Data Security and Authentication
-
 - NoSQL Databases
+
+- Database Design and ER Diagrams
 
 ## OOPs Interview Questions
 
