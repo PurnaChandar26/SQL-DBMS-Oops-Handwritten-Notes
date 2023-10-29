@@ -41,9 +41,7 @@ The DBMS section focuses on Database Management Systems. A DBMS is the software 
 
 - ACID Properties
 
-- NoSQL Databases
 
-- Database Design and ER Diagrams
 
 ## OOPs Interview Questions
 
