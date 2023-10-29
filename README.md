@@ -42,7 +42,6 @@ The DBMS section focuses on Database Management Systems. A DBMS is the software 
 - ACID Properties
 
 
-
 ## OOPs Interview Questions
 
 The OOPs (Object-Oriented Programming) section delves into core concepts of object-oriented programming, which is widely used in software development. These notes cover topics such as:
